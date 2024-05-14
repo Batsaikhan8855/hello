@@ -94,4 +94,4 @@ public class lab1 {
         }
         System.out.println("Нийлбэр:" + sum);
     }
-}
+}//6:56
